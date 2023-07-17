@@ -1,4 +1,4 @@
-pip install deepfilternet
+!pip install deepfilternet
 from df.enhance import enhance, init_df, load_audio, save_audio
 from df.utils import download_file
 import librosa
